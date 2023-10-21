@@ -1,3 +1,3 @@
 # GunWall_VRGame
 
-VR Game - Destroy Walls and Evading
+VR Game - Destroy Walls and Evade
